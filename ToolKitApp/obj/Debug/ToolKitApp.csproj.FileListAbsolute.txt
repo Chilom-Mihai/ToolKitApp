@@ -1,0 +1,8 @@
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\bin\Debug\ToolKitApp.exe.config
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\bin\Debug\ToolKitApp.exe
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\bin\Debug\ToolKitApp.pdb
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\obj\Debug\ToolKitApp.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\obj\Debug\ToolKitApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\obj\Debug\ToolKitApp.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\obj\Debug\ToolKitApp.exe
+C:\Users\mihai\OneDrive\Desktop\ToolKitApp\ToolKitApp\obj\Debug\ToolKitApp.pdb
